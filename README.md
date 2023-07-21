@@ -1,7 +1,9 @@
 # LeetCode 2114. Maximum Number of Words Found in Sentences Java Problem Solving
 
 category: Algorithm Solving
+
 Hashnode Link: https://eunhanlee.hashnode.dev/leetcode-2114-maximum-number-of-words-found-in-sentences-java-problem-solving
+
 Blogger link: https://eunhanspace.blogspot.com/2023/07/leetcode-2114-maximum-number-of-words.html
 
 ## Problem
